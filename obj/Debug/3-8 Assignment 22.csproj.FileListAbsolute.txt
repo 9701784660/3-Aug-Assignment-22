@@ -1,0 +1,7 @@
+D:\projects\3-8 Assignment 22\3-8 Assignment 22\bin\Debug\3-8 Assignment 22.exe.config
+D:\projects\3-8 Assignment 22\3-8 Assignment 22\bin\Debug\3-8 Assignment 22.exe
+D:\projects\3-8 Assignment 22\3-8 Assignment 22\bin\Debug\3-8 Assignment 22.pdb
+D:\projects\3-8 Assignment 22\3-8 Assignment 22\obj\Debug\3-8 Assignment 22.csproj.AssemblyReference.cache
+D:\projects\3-8 Assignment 22\3-8 Assignment 22\obj\Debug\3-8 Assignment 22.csproj.CoreCompileInputs.cache
+D:\projects\3-8 Assignment 22\3-8 Assignment 22\obj\Debug\3-8 Assignment 22.exe
+D:\projects\3-8 Assignment 22\3-8 Assignment 22\obj\Debug\3-8 Assignment 22.pdb
